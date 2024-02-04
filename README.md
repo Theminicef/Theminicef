@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theminicef" alt="theminicef" /></a> </p>
 
-- 🔭 I’m currently working on **Upknowing**
+- 🔭 I’m currently working on **Opodium**
 
 - 🌱 I’m currently learning **Anything**
 
