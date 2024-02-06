@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **WEB3 Frontend**
 
-- 👨‍💻 All of my projects are available at [https://aleseolu.netlify.app/](https://aleseolu.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://aleseolu.vercel.app/](https://aleseolu.vercel.app/)
 
 - 📝 I regularly write articles on [https://aleseolu.netlify.app/](https://aleseolu.netlify.app/)
 
