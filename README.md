@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [https://aleseolu.vercel.app/](https://aleseolu.vercel.app/)
 
-- 📝 I regularly write articles on [https://aleseolu.netlify.app/](https://aleseolu.netlify.app/)
+- 📝 I regularly write articles on [https://aleseolu.vercel.app/](https://aleseolu.vercel.app/)
 
 - 📫 How to reach me **oluaese@gmail.com**
 
-- 📄 Know about my experiences [https://aleseolu.netlify.app/](https://aleseolu.netlify.app/)
+- 📄 Know about my experiences [https://aleseolu.vercel.app/](https://aleseolu.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
